@@ -39,6 +39,7 @@ Please open a pull request
 | BaseAI (from Langbase) - Memory | https://langbase.com/docs/memory        | Managed, Open source | https://github.com/LangbaseInc/baseai           | Memory Tool     | Vector        |
 | BondAI                        | https://bondai.dev/docs/agent-memory/    | Open source        | https://github.com/krohling/bondai              | Memory Tool     | Vector        |
 | MemGPT (from Letta)           | https://memgpt.ai/                       | Managed, Open source | https://github.com/cpacker/MemGPT               | Memory Tool     | Graph, Vector |
+| Statewave                     | https://statewave.dev/                   | Open source          | https://github.com/statewave-ai/statewave     | Memory Tool     | Graph, Vector |
 | GraphRAG (from Microsoft)     | https://microsoft.github.io/graphrag/    | Open source        | https://github.com/microsoft/graphrag           | Memory Tool     | Graph, Vector |
 | Llama index                   | https://www.llamaindex.ai/               | Managed, Open source | https://github.com/run-llama/llama_index        | LLM Framework   | Graph, Vector |
 | Prometheus                    | https://prometheus.io/                   | Open source        | https://github.com/prometheus                   | Memory Tool     | Graph         |
