@@ -128,6 +128,7 @@ Common benchmarks used to compare AI memory systems on long-term recall and reas
  
 | Benchmark | What it measures | Link |
 |-----------|------------------|------|
+| ATM-Bench | First benchmark for multimodal, multi-source personalized referential memory QA over ~4 years of privacy-preserving personal records (emails, images, videos); queries require resolving personal references, multi-evidence reasoning, and handling conflicting evidence | [arxiv.org/abs/2603.01990](https://arxiv.org/abs/2603.01990) · [atmbench.github.io](https://atmbench.github.io/) · [atmbench/atmbench.github.io](https://github.com/atmbench/atmbench.github.io) |
 | LoCoMo | Very long-term conversational memory (QA, event summarization, multimodal dialogue) over ~300-turn, multi-session conversations | [arxiv.org/abs/2402.17753](https://arxiv.org/abs/2402.17753) · [snap-research/locomo](https://github.com/snap-research/locomo) |
 | LongMemEval | Long-term interactive memory across five abilities: information extraction, multi-session reasoning, temporal reasoning, knowledge updates, and abstention | [arxiv.org/abs/2410.10813](https://arxiv.org/abs/2410.10813) |
  
